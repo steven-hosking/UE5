@@ -1,0 +1,1 @@
+from shotgrid_auth_ui import ShotgunAuthScript
